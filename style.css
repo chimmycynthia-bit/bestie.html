@@ -1,0 +1,46 @@
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: large;
+    font-family: 'Times New Roman', serif;
+}
+
+body {
+    background-color: purple;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    border: 2px solid white;
+    margin: auto;
+    padding: 10px;
+}
+
+div {
+    background-color: lightskyblue;
+    color: black;
+    font-family: 'Verdana', sans-serif;
+    border: 1px solid black;
+    margin: 2px;
+    padding: 15px;
+}
+
+h2 {
+    background-color: lightskyblue;
+    color: darkgreen;
+    font-family: 'Georgia', serif;
+    border: 1px solid darkgreen;
+    margin: 10px;
+    padding: 5px;
+}
+
+h3 {
+    background-color: lightcoral;
+    color: white;
+    font-family: 'Courier New', monospace;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+}
